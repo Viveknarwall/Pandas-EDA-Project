@@ -34,15 +34,16 @@ I worked through the dataset using Pandas and created visualizations with Matplo
 
 These findings describe patterns in the dataset. Further analysis would be needed to understand the reasons behind them.
 
+
 ## Project Structure
 
 ```text
-Sample-Superstore.csv
-│
+Pandas-EDA-Project/
 ├── Pandas.ipynb
-├── superstore.csv
+├── Sample-Superstore.csv
 └── README.md
 ```
+
 
 ## How to Run the Project
 
